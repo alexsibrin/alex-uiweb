@@ -1,14 +1,18 @@
-### Hi tshere 👋
+## Hi tshere 👋
 
-#### Header
+### Header
 ____
 
-#### About me
+### About me
+____
+lorem
 
 #### My job now
+____
+[AirWeb, development](http://airwebdevelopment.com/)
 
 #### Follow me
-
+____
 
 <!--
 **alex-uiweb/alex-uiweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
