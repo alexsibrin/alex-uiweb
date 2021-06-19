@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Header
+#### Header
+____
 
-About me
+#### About me
 
-My job now
+#### My job now
 
-Follow me
+#### Follow me
