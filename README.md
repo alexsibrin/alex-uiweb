@@ -4,11 +4,9 @@
 ____
 
 ### About me
-____
 lorem
 
 #### My job now
-____
 [AirWeb, development](http://airwebdevelopment.com/)
 
 #### Follow me
