@@ -1,4 +1,4 @@
-![Alt-текст](https://github.com/alex-uiweb/alex-uiweb/blob/master/assets/bg.jpeg "Орк")
+![Alt-текст](https://github.com/alex-uiweb/alex-uiweb/blob/master/assets/bg.jpg "Орк")
 ____
 
 ## About me
