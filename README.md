@@ -1,15 +1,15 @@
-## Hi tshere 👋
+# Hi tshere 👋
 
-### Header
+## Header
 ____
 
-### About me
+## About me
 lorem
 
-#### My job now
+## My job now
 [AirWeb, development](http://airwebdevelopment.com/)
 
-#### Follow me
+## Follow me
 ____
 
 <!--
