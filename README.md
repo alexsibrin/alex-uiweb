@@ -1,14 +1,12 @@
-### Hi tshere 👋
+![Alt-текст](https://github.com/alex-uiweb/alex-uiweb/blob/master/assets/bg.jpg "Орк") 
 
-#### Header
-____
+## About me
+I love to develop web solutions for business and solve its' problems because that shows results immediately. For sure, because the web is the greatest tool for growing any business, my clients and partners know it. You can do everything on the web everything if you can't you just don't know that you're able to.
 
-#### About me
+## My job now
+[AirWeb, development](http://airwebdevelopment.com/)
 
-#### My job now
-
-#### Follow me
-
+## Follow me
 
 <!--
 **alex-uiweb/alex-uiweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
