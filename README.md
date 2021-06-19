@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi tshere 👋
+
+#### Header
+____
+
+#### About me
+
+#### My job now
+
+#### Follow me
+
 
 <!--
 **alex-uiweb/alex-uiweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
