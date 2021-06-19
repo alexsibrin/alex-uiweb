@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+#### Header
+____
+
+#### About me
+
+#### My job now
+
+#### Follow me
+
+
 <!--
 **alex-uiweb/alex-uiweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,12 +24,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-#### Header
-____
-
-#### About me
-
-#### My job now
-
-#### Follow me
