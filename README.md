@@ -8,6 +8,7 @@ I love to develop web solutions for business and solve its' problems because tha
 [AirWeb, development](http://airwebdevelopment.com/)
 
 ## Follow me
+[LinkedIn](https://www.linkedin.com/in/alex-uiweb/), [Facebook](https://www.facebook.com/alex.uiweb/)
 
 <!--
 **alex-uiweb/alex-uiweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
