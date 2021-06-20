@@ -2,7 +2,7 @@
 
 ## About me
 I love to develop web solutions for business and solve its' problems because that shows results immediately. For sure, because the web is the greatest tool for growing any business, my clients and partners know it. You can do everything on the web everything if you can't you just don't know that you're able to. 
-<br> I work with native `JavaScript` and `Vue`, right now. Also, my stak has `PHP basics`, `Node.js` (for sure with `Express`)
+<br>I work with native `JavaScript` and `Vue`, right now. Also, my stack has `PHP basics`, `Node.js` (with `Express`), and `LESS`
 
 ## My job now
 [AirWeb, development](http://airwebdevelopment.com/)
