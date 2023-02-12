@@ -3,7 +3,7 @@
 ## About me
 I am a freelance full-stack developer and UI designer specializing in web development.<br>
 <br>
-I also develop SPA and SSR applications. I use Vue.js/Nuxt.js, on the front-end , SCSS. And Node.js and Golang on the back-end. I develop UI / UX design of websites, applications, interfaces using Figma / Adobe. I create informational and commercial (e-commerce) websites for business.
+I also develop SPA and SSR applications. I use `Vue.js/Nuxt.js`, on the front-end , `SCSS`. And `Node.js` and `Golang` on the back-end. I develop UI / UX design of websites, applications, interfaces using `Figma / Adobe`. I create informational and commercial (e-commerce) websites for business.
 
 [my website](http://alexsibrin.pro/)
 
