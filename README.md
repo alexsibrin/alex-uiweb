@@ -1,11 +1,11 @@
 ![Alt-текст](https://github.com/alex-uiweb/alex-uiweb/blob/master/assets/bg.jpg "Орк") 
 
 ## About me
-I love to develop web solutions for business and solve its' problems because that shows results immediately. For sure, because the web is the greatest tool for growing any business, my clients and partners know it. You can do everything on the web everything if you can't you just don't know that you're able to. 
-<br>I work with native `JavaScript` and `Vue`, right now. Also, my stack has `PHP basics`, `Node.js` (with `Express`), and `LESS`
+I am a freelance full-stack developer and UI designer specializing in web development.<br>
+<br>
+I also develop SPA and SSR applications. I use Vue.js/Nuxt.js, on the front-end , SCSS. And Node.js and Golang on the back-end. I develop UI / UX design of websites, applications, interfaces using Figma / Adobe. I create informational and commercial (e-commerce) websites for business.
 
-## My job now
-[AirWeb, development](http://airwebdevelopment.com/)
+[my website](http://alexsibrin.pro/)
 
 ## Follow me
 [LinkedIn](https://www.linkedin.com/in/alex-uiweb/), [Facebook](https://www.facebook.com/alex.uiweb/)
