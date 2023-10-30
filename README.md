@@ -1,14 +1,12 @@
 ![Alt-текст](https://github.com/alex-uiweb/alex-uiweb/blob/master/assets/bg.jpg "Орк") 
 
 ## About me
-I am a freelance full-stack developer and UI designer specializing in web development.<br>
-<br>
-I also develop SPA and SSR applications. I use `Vue.js/Nuxt.js`, on the front-end , `SCSS`. And `Node.js` and `Golang` on the back-end. I develop UI / UX design of websites, applications, interfaces using `Figma / Adobe`. I create informational and commercial (e-commerce) websites for business.
+I am a backend developer in Golang, who switched from JavaScript. I found the practical approach of Rob Pike and his team to organizing the flow of melons and the very concept of "no legacy". Let's colobarate!
 
-[my website](http://alexsibrin.com/)
+[my website](https://alexsibrin.com/)
 
 ## Follow me
-[LinkedIn](https://www.linkedin.com/in/alex-uiweb/), [Facebook](https://www.facebook.com/alex.uiweb/)
+[LinkedIn](https://www.linkedin.com/in/alexsibrin/), [Facebook](https://www.facebook.com/alexsibrindev/)
 
 <!--
 **alex-uiweb/alex-uiweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
