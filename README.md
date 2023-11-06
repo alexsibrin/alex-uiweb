@@ -1,4 +1,5 @@
-![Alt-текст](https://github.com/alex-uiweb/alex-uiweb/blob/master/assets/bg.jpg "Орк") 
+![linkedincover](https://github.com/alexsibrin/alexsibrin/assets/76218999/a57e46bb-7e97-46d8-be61-dfa6ef27618a)
+
 
 ## About me
 I am a backend developer in Golang, who switched from JavaScript. I found the practical approach of Rob Pike and his team to organizing the flow of melons and the very concept of "no legacy". Let's colobarate!
