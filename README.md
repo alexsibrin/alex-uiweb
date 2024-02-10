@@ -2,9 +2,11 @@
 
 
 ## About me
-I am a backend developer in Golang, who switched from JavaScript. I found the practical approach of Rob Pike and his team to organizing the flow of melons and the very concept of "no legacy". Let's colobarate!
+🚀 Golang Backend Developer | Software Architect | Testing Enthusiast  
+  
+As a seasoned Golang backend developer, I bring a wealth of experience in crafting robust and scalable software solutions. Having made a seamless transition from JavaScript, I embrace the practical approach advocated by industry leaders such as Rob Pike and his team, emphasizing clean code and efficient workflows.
 
-[my website](https://alexsibrin.com/)
+[alexsibrin.com](https://alexsibrin.com/)
 
 ## Follow me
 [LinkedIn](https://www.linkedin.com/in/alexsibrin/), [Facebook](https://www.facebook.com/alexsibrindev/)
